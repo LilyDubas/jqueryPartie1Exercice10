@@ -1,0 +1,4 @@
+
+$(function(){
+  $('.hide,#thirdText').hide();
+});
